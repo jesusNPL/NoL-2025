@@ -41,9 +41,9 @@ Every learning process becomes more effective when theory is combined with pract
     -   Meeting R
     -   The working directory
 -   R basics
-    -   Functions 
+    -   Functions
     -   R as a calculator
-    -   Variables/Objects: or hey I'm here! 
+    -   Variables/Objects: or hey I'm here!
 :::
 
 ------------------------------------------------------------------------
@@ -306,7 +306,6 @@ number / number
 You can also perform chain operations
 
 ::: incremental
-
 ```{r}
 #| code-fold: true
 #| eval: true
@@ -332,14 +331,13 @@ You can also perform chain operations
 10 * (2 + 3) / 2
 
 ```
-
 :::
 
 ------------------------------------------------------------------------
 
-## Variables/Objects 
+## Variables/Objects
 
-When you are performing data analyses you need to store **variables** in the computer memory.  for  In **R** you can create and manipulate different kind of data, from a simple numeric vector to complex spatial and/or phylogenetic DataFrames. The main six kinds of objects that you can create and manipulate in R, are:
+When you are performing data analyses you need to store **variables** in the computer memory. for In **R** you can create and manipulate different kind of data, from a simple numeric vector to complex spatial and/or phylogenetic DataFrames. The main six kinds of objects that you can create and manipulate in R, are:
 
 -   Vectors (numeric, character, factor, logic)
 
@@ -631,9 +629,7 @@ lst$obj_dataframe # get access to the dataframe
 ```
 
 ::: callout-note
-
 Time for a break!
-
 :::
 
 ------------------------------------------------------------------------
